@@ -1,0 +1,28 @@
+{
+  "productInventoryAllocationRetrieveActionTaskReference" : "PIARATR762941",
+  "productInventoryAllocationRetrieveActionTaskRecord" : {},
+  "productInventoryAllocationInstanceReportRecord" : {
+    "productInventoryAllocationInstanceReportData" : "productInventoryAllocationInstanceReportData",
+    "productInventoryAllocationInstanceReport" : {},
+    "productInventoryAllocationInstanceReportType" : "productInventoryAllocationInstanceReportType"
+  },
+  "productInventoryAllocationInstanceRecord" : {
+    "productInventoryHoldings" : {
+      "productInventoryItemRecord" : {
+        "productInventoryItemDescription" : "productInventoryItemDescription",
+        "productInventoryItemSupplierDetails" : "productInventoryItemSupplierDetails",
+        "productInventoryUsedLocations" : "productInventoryUsedLocations",
+        "productInventoryHolding" : "productInventoryHolding"
+      },
+      "productInventoryItemType" : "productInventoryItemType",
+      "productServiceType" : "productServiceType"
+    },
+    "productInventoryAllocationServiceSchedule" : "productInventoryAllocationServiceSchedule"
+  },
+  "productInventoryAllocationRetrieveActionResponse" : "productInventoryAllocationRetrieveActionResponse",
+  "productInventoryAllocationInstanceAnalysis" : {
+    "productInventoryAllocationInstanceAnalysisData" : "productInventoryAllocationInstanceAnalysisData",
+    "productInventoryAllocationInstanceAnalysisReportType" : "productInventoryAllocationInstanceAnalysisReportType",
+    "productInventoryAllocationInstanceAnalysisReport" : {}
+  }
+}

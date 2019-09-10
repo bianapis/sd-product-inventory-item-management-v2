@@ -1,0 +1,18 @@
+{
+  "updateResponseRecord" : {},
+  "productInventoryAllocationInstanceRecord" : {
+    "productInventoryHoldings" : {
+      "productInventoryItemRecord" : {
+        "productInventoryItemDescription" : "productInventoryItemDescription",
+        "productInventoryItemSupplierDetails" : "productInventoryItemSupplierDetails",
+        "productInventoryUsedLocations" : "productInventoryUsedLocations",
+        "productInventoryHolding" : "productInventoryHolding"
+      },
+      "productInventoryItemType" : "productInventoryItemType",
+      "productServiceType" : "productServiceType"
+    },
+    "productInventoryAllocationServiceSchedule" : "productInventoryAllocationServiceSchedule"
+  },
+  "productInventoryAllocationUpdateActionTaskRecord" : {},
+  "productInventoryAllocationUpdateActionTaskReference" : "PIAUATR703386"
+}

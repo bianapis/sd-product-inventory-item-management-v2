@@ -1,0 +1,28 @@
+{
+  "assignmentInstanceRecord" : {
+    "productInventoryAssignmentDeliveryRecord" : {},
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productInventoryAssignmentRequestRecord" : {},
+    "productInventoryAssignmentRequestType" : "productInventoryAssignmentRequestType",
+    "productInventoryAssignmentCosts" : "productInventoryAssignmentCosts"
+  },
+  "assignmentRequestRecordReference" : "ARRR730380",
+  "assignmentRequestActionTaskRecord" : {},
+  "productInventoryAllocationInstanceRecord" : {
+    "productInventoryHoldings" : {
+      "productInventoryItemRecord" : {
+        "productInventoryItemDescription" : "productInventoryItemDescription",
+        "productInventoryItemSupplierDetails" : "productInventoryItemSupplierDetails",
+        "productInventoryUsedLocations" : "productInventoryUsedLocations",
+        "productInventoryHolding" : "productInventoryHolding"
+      },
+      "productInventoryItemType" : "productInventoryItemType",
+      "productServiceType" : "productServiceType"
+    },
+    "productInventoryAllocationServiceSchedule" : "productInventoryAllocationServiceSchedule"
+  },
+  "requestResponseRecord" : {},
+  "assignmentRequestActionTaskReference" : "PIARATR707326"
+}

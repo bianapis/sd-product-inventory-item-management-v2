@@ -1,0 +1,39 @@
+{
+  "assignmentRetrieveActionTaskReference" : "PIARATR771151",
+  "assignmentInstanceAnalysis" : {
+    "assignmentInstanceAnalysisReportType" : "assignmentInstanceAnalysisReportType",
+    "assignmentInstanceAnalysisReport" : {},
+    "assignmentInstanceAnalysisRecord" : {},
+    "assignmentInstanceAnalysisParameters" : "assignmentInstanceAnalysisParameters"
+  },
+  "assignmentInstanceRecord" : {
+    "productInventoryAssignmentDeliveryRecord" : {},
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productInventoryAssignmentRequestRecord" : {},
+    "productInventoryAssignmentRequestType" : "productInventoryAssignmentRequestType",
+    "productInventoryAssignmentCosts" : "productInventoryAssignmentCosts"
+  },
+  "productInventoryAllocationInstanceRecord" : {
+    "productInventoryHoldings" : {
+      "productInventoryItemRecord" : {
+        "productInventoryItemDescription" : "productInventoryItemDescription",
+        "productInventoryItemSupplierDetails" : "productInventoryItemSupplierDetails",
+        "productInventoryUsedLocations" : "productInventoryUsedLocations",
+        "productInventoryHolding" : "productInventoryHolding"
+      },
+      "productInventoryItemType" : "productInventoryItemType",
+      "productServiceType" : "productServiceType"
+    },
+    "productInventoryAllocationServiceSchedule" : "productInventoryAllocationServiceSchedule"
+  },
+  "assignmentInstanceReport" : {
+    "assignmentInstanceReportType" : "assignmentInstanceReportType",
+    "assignmentInstanceReportParameters" : "assignmentInstanceReportParameters",
+    "assignmentInstanceReportRecord" : {},
+    "assignmentInstanceReport" : {}
+  },
+  "assignmentRetrieveActionTaskRecord" : {},
+  "assignmentRetrieveActionResponse" : "assignmentRetrieveActionResponse"
+}

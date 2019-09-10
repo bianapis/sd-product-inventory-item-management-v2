@@ -1,0 +1,14 @@
+{
+  "assignmentUpdateActionTaskRecord" : {},
+  "assignmentInstanceRecord" : {
+    "productInventoryAssignmentDeliveryRecord" : {},
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productInventoryAssignmentRequestRecord" : {},
+    "productInventoryAssignmentRequestType" : "productInventoryAssignmentRequestType",
+    "productInventoryAssignmentCosts" : "productInventoryAssignmentCosts"
+  },
+  "assignmentUpdateActionTaskReference" : "PIAUATR738778",
+  "updateResponseRecord" : {}
+}
